@@ -19,10 +19,11 @@
 
 - Java
 - Python
+- C
 - HTML
 - CSS
-- JavaScript
 - Git & GitHub
+- Linux
 
 ---
 
